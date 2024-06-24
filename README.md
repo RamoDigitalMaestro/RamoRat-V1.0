@@ -1,1 +1,1 @@
-You can improve the Telegram bot based simple and understandable sample project by adding features, good work.
+Telegram bot-based simple and understandable example remote access tool, you can improve it by adding features, good work.
